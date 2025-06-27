@@ -18,7 +18,7 @@ console.log(person)
 // we can define a function inside a object just 
 
 let obj_with_func = {
-    first_names: "vk",
+    first_names: "vky",
     last_names: "yads",
     fullname: function(){
         return this.first_names + " "+ this.last_names
